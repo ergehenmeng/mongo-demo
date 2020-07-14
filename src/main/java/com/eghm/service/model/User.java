@@ -24,6 +24,8 @@ public class User implements Serializable {
 
     private Integer sex;
 
+    private Integer sum;
+
     private List<Course> courseList;
 }
 
